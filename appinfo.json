@@ -1,0 +1,19 @@
+{
+  "uuid": "0cd788ad-2076-4892-8aa7-3bbe0c0dd147",
+  "shortName": "Skywatch",
+  "longName": "Skywatch",
+  "companyName": "Sapphirine Design",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["chalk"],
+  "enableMultiJS": true,
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
